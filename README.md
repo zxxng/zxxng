@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 
 
 
-
-<a href="https://profile.intra.42.fr/users/jaeyyoo" target="_blank"><img src="https://img.shields.io/badge/42Seoul?style=flat-square&logo=&logoColor=000000"/></a>
