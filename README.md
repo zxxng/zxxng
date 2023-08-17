@@ -14,21 +14,23 @@ Here are some ideas to get you started:
 -->
 
 ## Frontend Developer
-Hello, I'm Frontend Developer, Jaeyeong Yoo! (is Called Jaeng😄)<br>
-
-
-
+Hello, I'm Frontend Developer, Jaeyeong Yoo! (is Called Jaeng😄)
+<br>
 
 ### 👩🏻‍💻 Experience
 
-**멋쟁이사자처럼 프론트엔드스쿨 5기** (2023.02 - 2023.06)
+멋쟁이사자처럼 프론트엔드스쿨 5기 (2023.02 - 2023.06)
 - HTML, CSS, JavaScript, React, Bootstrap, Sass, Tailwind
 - <a href="https://github.com/FRONTENDSCHOOL5/final-07-show-in-seoul">프로젝트 보기</a>
 
-**이노베이션 아카데미 42Seoul 8기** (2022.11 - 2023.08) <a href="https://42seoul.kr/seoul42/main/view"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat&logo=42&logoColor=white"></a>
+이노베이션 아카데미 42Seoul 8기 (2022.11 - 2023.08) <a href="https://42seoul.kr/seoul42/main/view"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat&logo=42&logoColor=white"></a>
 - Shell, C
 - CS, 알고리즘 학습
 - <a href="https://github.com/zxxng/42Seoul">프로젝트 보기</a>
+
+### 👩🏻‍🎓 Profile
+숭실대학교 미디어경영학과 (2020.03 - 2024.02)
+<br>
 
 <!--
 ### 👩🏻‍💼 Work Experience
@@ -38,8 +40,7 @@ Hello, I'm Frontend Developer, Jaeyeong Yoo! (is Called Jaeng😄)<br>
 - 생산지표를 통한 프로모션 운영으로 보상제도 마련, 업무 동기 부여로 생산성 증대
 -->
 
-### 👩🏻‍🎓 Profile
-**숭실대학교 미디어경영학과** (2020.03 - 2024.02)
+
 
 ### 🛠 Skills
 <!-- Frontend Skill -->
@@ -57,6 +58,12 @@ Hello, I'm Frontend Developer, Jaeyeong Yoo! (is Called Jaeng😄)<br>
 <a href="https://github.com/zxxng/42Seoul"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"></a>
 <a href="https://github.com/zxxng/Python-MySQL"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"></a>
 
+<!-- Design Skill -->
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat&logo=Adobe Premiere Pro&logoColor=white"/>
+
 <!-- Comunication Skill
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
@@ -66,3 +73,7 @@ Hello, I'm Frontend Developer, Jaeyeong Yoo! (is Called Jaeng😄)<br>
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxxng&show_icons=true&theme=onedark)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxxng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
