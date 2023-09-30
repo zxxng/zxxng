@@ -56,7 +56,7 @@ Hello, I'm Frontend Developer, Jaeyeong Yoo! (is Called Jaeng😄)
 <a href="https://github.com/zxxng"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
 <a href="https://github.com/zxxng/42Seoul_C_Piscine"><img src="https://img.shields.io/badge/Shell-FFD500?style=flat&logo=Shell&logoColor=white"></a>
 <a href="https://github.com/zxxng/42Seoul"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"></a>
-<a href="https://github.com/zxxng/Python-MySQL"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"></a>
+<!-- <a href="https://github.com/zxxng/Python-MySQL"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"></a> -->
 
 <!-- Design Skill -->
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"></img>
@@ -72,7 +72,7 @@ Hello, I'm Frontend Developer, Jaeyeong Yoo! (is Called Jaeng😄)
 <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white">
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxxng&show_icons=true&theme=onedark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxxng&show_icons=true&theme=onedark) -->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxxng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
