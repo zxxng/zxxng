@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Frontend Developer
-Hello, I'm Frontend Developer, Jaeyeong Yoo! (is Called Jaeng😄)
+Hello, I'm Frontend Developer, Jaeyeong Yoo! (is Called Jena😄)
 <br>
 
 ### 👩🏻‍💻 Experience
@@ -47,7 +47,9 @@ Hello, I'm Frontend Developer, Jaeyeong Yoo! (is Called Jaeng😄)
 <a href="https://github.com/zxxng/LikeLion_FES5/tree/main/HTML-CSS"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"></a>
 <a href="https://github.com/zxxng/LikeLion_FES5/tree/main/HTML-CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"></a>
 <a href="https://github.com/zxxng/LikeLion_FES5/tree/main/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></a>
 <a href="https://github.com/zxxng/LikeLion_FES5/tree/main/React"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"></a>
+<!--<a href="#"><img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"></a>-->
 <!-- <a href="https://github.com/zxxng/LikeLion_FES5/tree/main/Bootstrap"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"></a>
 <a href="https://github.com/zxxng/LikeLion_FES5/tree/main/Sass"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"></a>
 <a href="https://github.com/zxxng/LikeLion_FES5/tree/main/Tailwind"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"></a> -->
