@@ -18,8 +18,12 @@ Hello, I'm Frontend Developer, Jaeyeong Yoo! (is Called Jena😄)
 <br>
 
 ### 👩🏻‍💻 Experience
+멋쟁이사자처럼 프론트엔드 플러스 스쿨 1기 (2023.10 - 2023.12)
+- Typescript, Next.js
+- <a href="https://github.com/likelion-FESP1-todo/Todo-Project">미니 프로젝트 보기</a>
+- <a href="https://github.com/Five-Rookies/final-project">최종 프로젝트 보기</a>
 
-멋쟁이사자처럼 프론트엔드스쿨 5기 (2023.02 - 2023.06)
+멋쟁이사자처럼 프론트엔드 스쿨 5기 (2023.02 - 2023.06)
 - HTML, CSS, JavaScript, React, Bootstrap, Sass, Tailwind
 - <a href="https://github.com/FRONTENDSCHOOL5/final-07-show-in-seoul">프로젝트 보기</a>
 
@@ -49,6 +53,7 @@ Hello, I'm Frontend Developer, Jaeyeong Yoo! (is Called Jena😄)
 <a href="https://github.com/zxxng/LikeLion_FES5/tree/main/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></a>
 <a href="https://github.com/zxxng/LikeLion_FES5/tree/main/React"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"></a>
+<a href="https://github.com/Five-Rookies/final-project"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /></a>
 <!--<a href="#"><img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"></a>-->
 <!-- <a href="https://github.com/zxxng/LikeLion_FES5/tree/main/Bootstrap"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"></a>
 <a href="https://github.com/zxxng/LikeLion_FES5/tree/main/Sass"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"></a>
@@ -64,7 +69,7 @@ Hello, I'm Frontend Developer, Jaeyeong Yoo! (is Called Jena😄)
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat&logo=Adobe Premiere Pro&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat&logo=Adobe Premiere Pro&logoColor=white"/> -->
 
 <!-- Comunication Skill
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></img>
