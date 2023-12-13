@@ -20,8 +20,7 @@ Hello, I'm Frontend Developer, Jaeyeong Yoo! (is Called Jena😄)
 ### 👩🏻‍💻 Experience
 멋쟁이사자처럼 프론트엔드 플러스 스쿨 1기 (2023.10 - 2023.12)
 - Typescript, Next.js
-- <a href="https://github.com/likelion-FESP1-todo/Todo-Project">미니 프로젝트 보기</a>
-- <a href="https://github.com/Five-Rookies/final-project">최종 프로젝트 보기</a>
+- <a href="https://github.com/Five-Rookies/final-project">프로젝트 보기</a>
 
 멋쟁이사자처럼 프론트엔드 스쿨 5기 (2023.02 - 2023.06)
 - HTML, CSS, JavaScript, React, Bootstrap, Sass, Tailwind
