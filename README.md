@@ -19,6 +19,7 @@ Hello, I'm Frontend Developer, Jaeyeong Yoo! (is Called Jena😄)
 
 ### 👩🏻‍💻 Experience
 멋쟁이사자처럼 프론트엔드 플러스 스쿨 1기 (2023.10 - 2023.12)
+- Final Project 우수상 수상
 - Typescript, Next.js
 - <a href="https://github.com/Five-Rookies/final-project">프로젝트 보기</a>
 
