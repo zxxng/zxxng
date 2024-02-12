@@ -25,7 +25,7 @@ Hello, I'm Frontend Developer, Jaeyeong Yoo! (is Called Jena😄)
 
 멋쟁이사자처럼 프론트엔드 스쿨 5기 (2023.02 - 2023.06)
 - HTML, CSS, JavaScript, React, Bootstrap, Sass, Tailwind
-- <a href="https://github.com/FRONTENDSCHOOL5/final-07-show-in-seoul">프로젝트 보기</a>
+- <a href="https://github.com/zxxng/final-07-show-in-seoul">프로젝트 보기</a>
 
 이노베이션 아카데미 42Seoul 8기 (2022.11 - 2023.08) <a href="https://42seoul.kr/seoul42/main/view"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat&logo=42&logoColor=white"></a>
 - Shell, C
