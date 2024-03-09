@@ -79,7 +79,8 @@ Hello, I'm Frontend Developer, Jaeyeong Yoo! (is Called Jena😄)
 <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white">
 -->
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxxng&show_icons=true&theme=onedark) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxxng&show_icons=true&theme=onedark)
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxxng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
