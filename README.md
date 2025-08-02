@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 Hello, I'm Frontend Developer, Jaeyeong Yoo! (is Called Jena😄)
 <br>
 
+### 💼 Work Experience
+웹 풀스택 개발자 (선임) (2024.04 ~ 재직 중)
+- 대규모 B2B 플랫폼의 프론트엔드 성능 최적화
+- Vue.js 기반 산업용 IoT 데이터 시각화 PoC 개발
+- SpreadJS, AG-Grid 등을 활용한 복잡한 웹 문서 관리 시스템 개발
+
 ### 👩🏻‍💻 Experience
 멋쟁이사자처럼 프론트엔드 플러스 스쿨 1기 (2023.10 - 2023.12)
 - Final Project 우수상 수상
@@ -28,8 +34,7 @@ Hello, I'm Frontend Developer, Jaeyeong Yoo! (is Called Jena😄)
 - <a href="https://github.com/zxxng/final-07-show-in-seoul">프로젝트 보기</a>
 
 이노베이션 아카데미 42Seoul 8기 (2022.11 - 2023.08) <a href="https://42seoul.kr/seoul42/main/view"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat&logo=42&logoColor=white"></a>
-- Shell, C
-- CS, 알고리즘 학습
+- Shell, C, CS, 알고리즘 학습
 - <a href="https://github.com/zxxng/42Seoul">프로젝트 보기</a>
 
 ### 👩🏻‍🎓 Profile
